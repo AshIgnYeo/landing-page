@@ -1,6 +1,10 @@
 # landing-page
 Landing page boilerplate for LeWagon Web Development workshops
 
+## Final Product
+We will be looking to build a simple landing page that looks like [this](https://lewagon.github.io/landing-page/)
+
+
 ## Setup
 ❗️ The following codes only work based on these presumptions
 1. You are on a unix based command line tool
@@ -9,9 +13,10 @@ Landing page boilerplate for LeWagon Web Development workshops
 > ### Using Git (Recommended)
 > Copy and paste the following code into a terminal
 > ```
-> mkdir ~/lewagon-workshops/ 
-> git clone git@github.com:lewagon/landing-page.git 
-> cd ~/lewagon-workshops/landing-page 
+> mkdir ~/desktop/lewagon-workshops/  
+> cd ~/desktop/lewagon-workshops/
+> git clone git@github.com:lewagon/landing-page.git
+> cd landing-page
 > code .
 > ```
 
